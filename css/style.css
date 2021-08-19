@@ -118,6 +118,10 @@ body {
   /* margin-top: 10px; */
 }
 
+path.current-floor {
+	opacity: 1;
+}
+
 .counter-group {
   display: flex;
   flex-direction: column;
